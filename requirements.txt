@@ -1,0 +1,8 @@
+pysodium
+qrcode
+pyotp
+requests
+beautifulsoup4
+ollama
+jinja2
+flask
